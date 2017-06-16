@@ -28,7 +28,7 @@ box 0 0 40 40 100 80
 //RIGHT LOWER ARM
 push
 move 20 -100 0
-rotate x -20
+rotate x -40
 box -10 0 10 20 125 20
 pop
 pop
